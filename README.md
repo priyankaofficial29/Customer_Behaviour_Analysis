@@ -145,10 +145,5 @@ pip install pandas numpy matplotlib seaborn psycopg2
 * Dashboard Development
 * Data Storytelling
 
----
 
-If you'd like, I can also provide:
 
-* A version tailored specifically for data analyst job applications
-* A version optimized for ATS keywords
-* A version with GitHub badges and visuals for stronger impact
